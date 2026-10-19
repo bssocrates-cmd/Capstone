@@ -1,0 +1,22 @@
+{
+    "validUser":{
+        "username":"standard_user",
+        "password":"bank_sauce"
+    },
+    "invalidUser":{
+        "username":"xxx",
+        "password":"yyy"
+    },
+    "lockedUser":{
+        "username":"locked_user",
+        "password":"bank_sauce"
+    },
+    "frozenUser":{
+        "username":"frozen_user",
+        "password":"bank_sauce"
+    },
+    "newAccount":{
+        "name":"personal",
+        "amount":"1000"
+    }
+}
